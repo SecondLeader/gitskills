@@ -2,4 +2,4 @@
  git is a free software third.
  git has a mutable index called stage.
  git  track is changed.
- create and use branch dev.
+ create and use branch dev.create branch is simple and quick.
