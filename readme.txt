@@ -3,3 +3,4 @@
  git has a mutable index called stage.
  git  track is changed.
  create and use branch dev.
+ create a brranch is simple and quick.
